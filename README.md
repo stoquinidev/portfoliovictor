@@ -30,7 +30,8 @@ Atualmente, estou desenvolvendo projetos pessoais para aprimorar minhas habilida
 
 ## 📂 Meus Projetos
 ✨ [**Portfólio Pessoal**](https://stoquinidev.github.io/portfoliovictor/) — Meu site com meus projetos e contatos.
-✨ [**Site de Busca de Empregos**](https://stoquinidev.github.io/Site-de-empregos/) — Site fictício de busca de empregos. 
+
+🌐 [**Site de Busca de Empregos**](https://stoquinidev.github.io/Site-de-empregos/) — Site fictício de busca de empregos. 
 
 ---
 
